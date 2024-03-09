@@ -27,3 +27,11 @@ docker run -v `pwd`:/app/ -v "/app/node_modules" -p 3000:3000 backstage
 app-config.local.yaml
 Dockerfile
 ```
+
+# Commands for running the docker-compose with live reload
+
+```
+docker-compose build
+docker-compose down - (for stopping the already running container)
+docker-compose up
+```
