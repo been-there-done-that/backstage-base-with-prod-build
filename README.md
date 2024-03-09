@@ -19,3 +19,11 @@ docker run -v `pwd`:/app/ -v "/app/node_modules" -p 3000:3000 backstage
 ```
 
  ### you should be able to see the ui being live updated at [http://locahost:3000](http://locahost:3000)
+
+# files to be copied for running the live reload.
+
+```
+.dockerignore
+app-config.local.yaml
+Dockerfile
+```
