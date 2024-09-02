@@ -1,0 +1,44 @@
+{
+    "user": {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "isActive": true,
+        "roles": [
+            "admin",
+            "user"
+        ],
+        "address": {
+            "street": "123 Main St",
+            "city": "Springfield",
+            "state": "IL",
+            "zip": "62701"
+        },
+        "preferences": {
+            "theme": "dark",
+            "notifications": true
+        },
+        "recentActivities": [
+            {
+                "type": "login",
+                "timestamp": "2024-09-01T10:00:00Z"
+            },
+            {
+                "type": "update_profile",
+                "timestamp": "2024-09-02T15:30:00Z"
+            }
+        ],
+        "accountBalance": 1234.56
+    },
+    "settings": {
+        "version": "1.0.0",
+        "features": {
+            "beta": false,
+            "analytics": true
+        }
+    },
+    "metadata": {
+        "requestId": "abcd1234",
+        "timestamp": "2024-09-02T16:00:00Z"
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "store": {
+        "name": "Gadget Emporium",
+        "location": "123 Tech Lane, Silicon Valley, CA",
+        "openingHours": {
+            "Monday": "9:00 AM - 6:00 PM",
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "9:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 8:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "Closed"
+        },
+        "products": [
+            {
+                "id": 101,
+                "name": "Smartphone X200",
+                "category": "Electronics",
+                "price": 799.99,
+                "inStock": true,
+                "specs": {
+                    "screenSize": "6.5 inches",
+                    "batteryLife": "24 hours",
+                    "storage": "128 GB",
+                    "cameraResolution": "12 MP"
+                },
+                "ratings": [
+                    {
+                        "user": "alice123",
+                        "rating": 4.5,
+                        "comment": "Great phone with excellent battery life!"
+                    },
+                    {
+                        "user": "bob456",
+                        "rating": 4.0,
+                        "comment": "Good performance, but a bit expensive."
+                    }
+                ]
+            },
+            {
+                "id": 202,
+                "name": "Wireless Headphones Pro",
+                "category": "Accessories",
+                "price": 149.99,
+                "inStock": false,
+                "specs": {
+                    "noiseCancellation": true,
+                    "bluetoothVersion": "5.0",
+                    "batteryLife": "20 hours",
+                    "color": "black"
+                },
+                "ratings": [
+                    {
+                        "user": "carol789",
+                        "rating": 4.8,
+                        "comment": "Excellent sound quality and comfort."
+                    }
+                ]
+            },
+            {
+                "id": 303,
+                "name": "4K Ultra HD TV",
+                "category": "Electronics",
+                "price": 1199.99,
+                "inStock": true,
+                "specs": {
+                    "screenSize": "55 inches",
+                    "resolution": "4K",
+                    "HDR": true,
+                    "smartFeatures": [
+                        "Netflix",
+                        "Hulu",
+                        "YouTube"
+                    ]
+                },
+                "ratings": [
+                    {
+                        "user": "dave321",
+                        "rating": 5.0,
+                        "comment": "Amazing picture quality and smart features."
+                    }
+                ]
+            }
+        ]
+    }
+}
+  {
+    "store": {
+        "name": "Gadget Emporium",
+        "location": "123 Tech Lane, Silicon Valley, CA",
+        "openingHours": {
+            "Monday": "9:00 AM - 6:00 PM",
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "9:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 8:00 PM",
+            "Saturday": "10:00 AM - 5:00 PM",
+            "Sunday": "Closed"
+        },
+        "products": [
+            {
+                "id": 101,
+                "name": "Smartphone X200",
+                "category": "Electronics",
+                "price": 799.99,
+                "inStock": true,
+                "specs": {
+                    "screenSize": "6.5 inches",
+                    "batteryLife": "24 hours",
+                    "storage": "128 GB",
+                    "cameraResolution": "12 MP"
+                },
+                "ratings": [
+                    {
+                        "user": "alice123",
+                        "rating": 4.5,
+                        "comment": "Great phone with excellent battery life!"
+                    },
+                    {
+                        "user": "bob456",
+                        "rating": 4.0,
+                        "comment": "Good performance, but a bit expensive."
+                    }
+                ]
+            },
+            {
+                "id": 202,
+                "name": "Wireless Headphones Pro",
+                "category": "Accessories",
+                "price": 149.99,
+                "inStock": false,
+                "specs": {
+                    "noiseCancellation": true,
+                    "bluetoothVersion": "5.0",
+                    "batteryLife": "20 hours",
+                    "color": "black"
+                },
+                "ratings": [
+                    {
+                        "user": "carol789",
+                        "rating": 4.8,
+                        "comment": "Excellent sound quality and comfort."
+                    }
+                ]
+            },
+            {
+                "id": 303,
+                "name": "4K Ultra HD TV",
+                "category": "Electronics",
+                "price": 1199.99,
+                "inStock": true,
+                "specs": {
+                    "screenSize": "55 inches",
+                    "resolution": "4K",
+                    "HDR": true,
+                    "smartFeatures": [
+                        "Netflix",
+                        "Hulu",
+                        "YouTube"
+                    ]
+                },
+                "ratings": [
+                    {
+                        "user": "dave321",
+                        "rating": 5.0,
+                        "comment": "Amazing picture quality and smart features."
+                    }
+                ]
+            }
+        ]
+    }
+}
